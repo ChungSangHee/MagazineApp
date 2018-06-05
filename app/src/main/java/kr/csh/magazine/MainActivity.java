@@ -18,6 +18,7 @@ import java.io.File;
 
 public class MainActivity extends AppCompatActivity {
 
+    //주석 테스트 입니다.
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

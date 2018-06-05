@@ -11,7 +11,7 @@ import android.webkit.WebViewClient;
 
 public class ContentActivity extends AppCompatActivity {
     WebView contentWebView;
-
+//이것도 주석 테스트
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
